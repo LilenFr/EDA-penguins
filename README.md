@@ -4,4 +4,4 @@ Para una mejor visualización, ver el proyecto en el siguiente <a href='https://
 
 El orden de lectura de los cuadernos es bastante intuitivo. El inicio del proyecto se corresponde al archivo "0-project.ipynb", siguiendo por el análisis univariado, bivariado y multivariado.
 # 
-<img src='./imgs/pinguino1-export.png' width='200' align='left'><img src='./imgs/pinguino2-export.png' width='200' align='left'><img src='./imgs/pinguino3-export.png' width='200' align='left'>
+<img src='./imgs/pinguino1-export.png' width='220' align='left'><img src='./imgs/pinguino2-export.png' width='220' align='left'><img src='./imgs/pinguino3-export.png' width='220' align='left'>
